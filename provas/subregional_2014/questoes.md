@@ -1,8 +1,8 @@
 Subregional 2014
 ================
 
-  | Nome | Assunto
---| ---- | ---
+   | Nome | Assunto
+    --- | ---- | ---
 a | [Volta](https://www.urionlinejudge.com.br/judge/pt/problems/view/1708)               | Ad-hoc
 b | [Baralho embaralhado](https://www.urionlinejudge.com.br/judge/pt/problems/view/1709) | -
 c | [Confederacao](https://www.urionlinejudge.com.br/judge/pt/problems/view/1710)        | Simulacao
