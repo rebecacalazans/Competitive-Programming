@@ -1,0 +1,115 @@
+\documentclass[a4paper, 13pt, twocolumn, landscape]{book}
+
+\usepackage[left=1cm, right=0.5cm, bottom=1cm, top=1cm, headsep=0.2cm]{geometry}
+\usepackage{pdflscape}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\fancyhead{}
+\fancyfoot{}
+\lhead{INSTITUTO MILITAR DE ENGENHARIA - \the\year}
+\chead{AD-HOC CAFE}
+\rhead{\thepage}
+
+\renewcommand{\headrulewidth}{2pt}
+
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{listingsutf8}
+\definecolor{verdecpp}{rgb}{0,0.5,0}
+\lstset{
+  language=C++,
+inputencoding=utf8/latin1,
+alsolanguage={[Sharp]C},
+basicstyle=\ttfamily\small, 
+keywordstyle=\color{blue}, 
+stringstyle=\color{verdecpp}, 
+commentstyle=\color{red}, 
+extendedchars=true, 
+showspaces=false, 
+showstringspaces=false, 
+%numbers=left,
+numberstyle=\tiny,
+breaklines=true, 
+%backgroundcolor=\color{green!10},
+breakautoindent=true, 
+captionpos=b,
+xleftmargin=0pt,
+}
+
+\begin{document}
+
+  \pagestyle{fancy}
+
+  \setlength{\columnseprule}{2pt}
+  \lstinputlisting[language=C++]{cpp/trie.cpp}
+  \noindent\hrulefill
+  \lstinputlisting[language=C++]{cpp/kuhn.cpp}
+  \noindent\hrulefill
+  \lstinputlisting[language=C++]{cpp/bit.cpp}
+  \noindent\hrulefill
+  \lstinputlisting[language=C++]{cpp/segtree.cpp}
+  \noindent\hrulefill
+  \lstinputlisting[language=C++]{cpp/unionfind.cpp}
+
+  \newpage
+  \twocolumn[
+    \begin{@twocolumnfalse}
+
+      \begin{tabular}{|c|c|c|c|p{80mm}|p{80mm}|p{80mm}|}
+        \hline
+        & M & P & R & Assunto & Descricao & Dificuldade\\
+        \hline
+        & & & & & &\\
+        A & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        B & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        C & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        D & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        E & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        F & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        G & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        H & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        I & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        J & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        K & & & & & &\\
+        & & & & & &\\
+        \hline
+        & & & & & &\\
+        L & & & & & &\\
+        & & & & & &\\
+        \hline
+      \end{tabular}
+      \vspace{60mm}
+    \end{@twocolumnfalse}
+  ]
+
+\end{document}
