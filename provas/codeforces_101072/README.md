@@ -1,4 +1,4 @@
-Subregional 2014
+Brazilian Open Cup 2016, UFBA
 ================
 
 [http://codeforces.com/group/kZPk3ZTzR5/contest/101072]
