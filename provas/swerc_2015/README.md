@@ -9,7 +9,7 @@ c |Canvas Painting     |
 d |Dice Cup            | Busca Completa
 e |Wooden Signs        | DP
 f |Landscaping         |
-g |Game Of Cards       |
-h |Sheldon Numbers     |
+g |Game Of Cards       | Grunyd Numbers
+h |Sheldon Numbers     | Busca Completa
 i |Text Processor      |
 j |Saint John Festival |
