@@ -5,9 +5,9 @@
     --- | ---- | ---
 a |Promotions          |
 b |Black Vienna        |
-c |Canvas Painting     |
+c |Canvas Painting     | Guloso
 d |Dice Cup            | Busca Completa
-e |Wooden Signs        | DP
+u |Wooden Signs        | DP
 f |Landscaping         |
 g |Game Of Cards       | Grunyd Numbers
 h |Sheldon Numbers     | Busca Completa
