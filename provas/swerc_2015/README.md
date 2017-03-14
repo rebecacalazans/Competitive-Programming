@@ -3,7 +3,7 @@
 
    | Nome | Assunto
     --- | ---- | ---
-a |Promotions          |
+a |Promotions          | DFS
 b |Black Vienna        |
 c |Canvas Painting     | Guloso
 d |Dice Cup            | Busca Completa
