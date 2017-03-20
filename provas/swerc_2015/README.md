@@ -1,4 +1,4 @@
-[Subregional 2012](http://codeforces.com/gym/101128)
+[SWERC 2015](http://codeforces.com/gym/101128)
 ================
 
    | Nome | Assunto
