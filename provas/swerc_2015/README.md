@@ -7,7 +7,7 @@ a |Promotions          | DFS
 b |Black Vienna        |
 c |Canvas Painting     | Guloso
 d |Dice Cup            | Busca Completa
-u |Wooden Signs        | DP
+e |Wooden Signs        | DP
 f |Landscaping         |
 g |Game Of Cards       | Grunyd Numbers
 h |Sheldon Numbers     | Busca Completa
