@@ -1,7 +1,7 @@
 #Seletiva IME 2016
 ------------------
 
-  | Nome | Assunto
+. | Nome | Assunto
  --- | --- | ---
 a | [30 Minutes or Less](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=4385) |
 b | [Godel's Dream](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=4386) | Guloso

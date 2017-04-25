@@ -1,7 +1,7 @@
 Subregional 2012
 ================
 
-   | Nome | Assunto
+ . | Nome | Assunto
     --- | ---- | ---
 a | [Concurso de Contos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1222) | string
 b | [Tobogan de Bolinhas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1223)| geometria

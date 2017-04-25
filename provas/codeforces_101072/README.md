@@ -1,9 +1,8 @@
-Brazilian Open Cup 2016, UFBA
+[Brazilian Open Cup 2016, UFBA](http://codeforces.com/group/kZPk3ZTzR5/contest/101072)
 ================
 
-[http://codeforces.com/group/kZPk3ZTzR5/contest/101072]
 
-   | Assunto
+ .  | Assunto
     --- | ---
 a | Ad-hoc
 b | Matemática

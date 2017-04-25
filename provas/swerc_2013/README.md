@@ -1,7 +1,7 @@
 [SWERC 2013](http://codeforces.com/gym/100443)
 ================
 
-   | Nome | Assunto
+ . | Nome | Assunto
     --- | ---- | ---
 a |Mixing Colours           |
 b |It Can Be Arranged       |
