@@ -4,7 +4,7 @@
    | Nome | Assunto
     --- | ---- | ---
 a |Promotions          | DFS
-b |Black Vienna        |
+b |Black Vienna        | 2-SAT
 c |Canvas Painting     | Guloso
 d |Dice Cup            | Busca Completa
 e |Wooden Signs        | DP
