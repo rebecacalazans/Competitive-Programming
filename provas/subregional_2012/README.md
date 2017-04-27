@@ -14,7 +14,7 @@ h | [Combate ao Câncer](https://www.urionlinejudge.com.br/judge/pt/problems/vie
 i | [Integral](https://www.urionlinejudge.com.br/judge/pt/problems/view/1230)           |
 j | [Palavras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1231)           | Trie
 k | [Ciclo de Rubik](https://www.urionlinejudge.com.br/judge/pt/problems/view/1232)     |
-l | [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)            |
+l | [Estrela](https://www.urionlinejudge.com.br/judge/pt/problems/view/1233)            | Matemática
 -|-|-
 warmup_a | [Botas Perdidas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1245) | Geometria
 warmup_b | [Guarda Costeira](https://www.urionlinejudge.com.br/judge/pt/problems/view/1247)| Ad-hoc
