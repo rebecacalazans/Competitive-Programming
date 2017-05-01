@@ -8,7 +8,7 @@ b |Black Vienna        | 2-SAT
 c |Canvas Painting     | Guloso (Huffman)
 d |Dice Cup            | Busca Completa
 e |Wooden Signs        | DP
-f |Landscaping         |
+f |Landscaping         | Fluxo
 g |Game Of Cards       | Grundy Numbers
 h |Sheldon Numbers     | Busca Completa
 i |Text Processor      |
