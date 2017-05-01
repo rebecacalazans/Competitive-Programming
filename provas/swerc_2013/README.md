@@ -6,7 +6,7 @@
 a |Mixing Colours           |
 b |It Can Be Arranged       |
 c |Shopping Malls           |
-d |Decoding The Hallway     |
+d |Decoding The Hallway     | Shortest path
 e |Joe Is learning to speak |
 f |Odd and Even Zeroes      |
 g |VivoParc                 |
