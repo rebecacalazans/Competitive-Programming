@@ -3,7 +3,7 @@ Subregional 2013
 
  . | Nome | Assunto
 --- | --- | ---
-a |[Zerinho ou Um](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467)       |
+a |[Zerinho ou Um](https://www.urionlinejudge.com.br/judge/pt/problems/view/1467)       | -
 b |[Balão](https://www.urionlinejudge.com.br/judge/pt/problems/view/1468)               | Line sweep + implementação
 c |[Chefe](https://www.urionlinejudge.com.br/judge/pt/problems/view/1469)               |
 d |[Maquina Dobradora](https://www.urionlinejudge.com.br/judge/pt/problems/view/1470)   | Implementação

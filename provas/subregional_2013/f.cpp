@@ -36,7 +36,7 @@ int main() {
     }
     size = v[n];
     if(size%3) {
-      printf("%d\n", 0);
+      printf("0\n");
       continue;
     }
     size/=3;
